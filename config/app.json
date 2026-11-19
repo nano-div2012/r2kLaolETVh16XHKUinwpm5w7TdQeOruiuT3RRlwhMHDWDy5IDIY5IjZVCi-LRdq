@@ -1,6 +1,13 @@
 {
-  "appName": "Web App",
-  "packageName": "com.example.webapp",
-  "orientation": "auto",
-  "permissions": ["internet", "network_state"]
+  "appName": "Free graunds",
+  "packageName": "com.web2apk.freegraunds3fy0",
+  "orientation": "landscape",
+  "permissions": [
+    "notification",
+    "camera",
+    "audio",
+    "location",
+    "file_manager",
+    "wifi_state"
+  ]
 }
